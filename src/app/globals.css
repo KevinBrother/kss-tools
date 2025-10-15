@@ -1,0 +1,3 @@
+@import "@aientry/ui/dist/globals.css";
+@import "@aientry/ui/dist/default-tailwindcss-theme.css";
+@import 'tailwindcss';
