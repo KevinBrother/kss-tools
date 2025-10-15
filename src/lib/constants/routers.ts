@@ -1,11 +1,5 @@
 export const ROUTERS = {
     HOME: "/",
-    LOGIN: "/login",
-    REGISTER: "/register",
-    DASHBOARD: "/dashboard",
-    KNOWLEDGE: {
-        ROOT:  "/knowledge",
-        WEB_DATA: "/knowledge/webdata",
-        FILES: "/knowledge/files",
-    },
+    CSS_OKLCH: "/tools/css-oklch",
+    Base64: "/tools/base64",
 }
